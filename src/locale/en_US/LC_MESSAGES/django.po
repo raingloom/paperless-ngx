@@ -1688,18 +1688,6 @@ msgstr ""
 msgid "CMYK"
 msgstr ""
 
-#: paperless/models.py:78 paperless/models.py:87
-msgid "OpenAI"
-msgstr ""
-
-#: paperless/models.py:79
-msgid "Huggingface"
-msgstr ""
-
-#: paperless/models.py:88
-msgid "Ollama"
-msgstr ""
-
 #: paperless/models.py:97
 msgid "Sets the output PDF type"
 msgstr ""
